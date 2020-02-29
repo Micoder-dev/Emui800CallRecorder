@@ -3,7 +3,7 @@ This module enables built-in Emui 8.0.0 Call Recorder.
 
 Module is exact the same as original "Emui 8.x.x Call Recorder" module from [XDA thread](https://forum.xda-developers.com/apps/magisk/module-emui-call-recorder-emui-4-x-x-5-t3740844/post75419425#post75419425), just updated for newer Magisk.
 
-# How to use
+## How to use
 
 You can find "Automatically record calls" submenu in Phone app settings.
 
